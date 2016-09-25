@@ -40,6 +40,10 @@ Sagan ska skrivas på engelska och ska vara barnvänlig.
     7. 7_hero_wins.txt
     8. 8_moral_of_the_tale.txt
     9. 9_end.txt
+    
+
+Exempel på hur det kan se ut:
+[https://github.com/jesperorb/storyteller-by-jesper-orb-fend16](https://github.com/jesperorb/storyteller-by-jesper-orb-fend16)
 
 ## Fyll på filerna
 

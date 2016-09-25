@@ -125,7 +125,8 @@ När allt ovan är klart går du vidare till nästa steg.
 Nu borde ni som grupp ha ett repo med en fin liten saga samtidigt som ni har lärt er att dela kod med git via GitHub. Detta är något vi kommer
 att arbeta mer med så no sweat om det är mycket som är oklart fortfarande!
 
-Om ni i gruppen är klara så kan ni fortsätta med uppgiften att skapa en __Fork__!
+Om ni i gruppen är klara så kan ni fortsätta med uppgiften att skapa en [Fork](https://github.com/FEND16/exercises/blob/master/Fork.md)!
+Instruktioner om det finns i Fork.md
 
 
 
